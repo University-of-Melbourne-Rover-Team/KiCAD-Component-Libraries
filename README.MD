@@ -1,6 +1,8 @@
 # Importing A Library Tutorial
 
-To make projects shareable we use project specfic libraries and not global libaries
+To make projects shareable we use project specfic libraries and not global libaries. Not all symbols require a custom library! 
+Anything with a stadardised footprint should be using generic KiCAD symbol and the specfic footprint should be linked. For example for a 5 Pin Vertical JST, you would choose the "Conn_01x05" symbol and then link the "Connector_JST:JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical" footprint from the standard KiCad Library. For things like SMD Resistors, there is standarised metric and imperial case sizes eg an 0805 resistor, so you would the generic resistor symbol with the 0805 resistor footprint. 
+
 ## Step 1:
 Create your KiCad Project with a Component Libraries Folder. In this folder
 include the library folders from the git repo or any you create yourself/find online.
