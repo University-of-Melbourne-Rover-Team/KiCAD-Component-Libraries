@@ -6,7 +6,7 @@
     (property "Value" "RP2040-Zero" (at 0 7.62 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 1.27 3.81 0)
+    (property "Footprint" "RP2040-Zero:RP2040-Zero" (at 1.27 3.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 1.27 3.81 0)

@@ -7,7 +7,7 @@
     (property "Value" "BTS50010-1TAE" (id 1) (at -10.16 -12.065 0)
       (effects (font (size 1.27 1.27)) (justify bottom left))
     )
-    (property "Footprint" "BTS50010-1TAE:TO127P1500X440-8N" (id 2) (at 0 0 0)
+    (property "Footprint" "BTS50010-1TAE:BTS50010-1TAE" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "MF" "Infineon Technologies" (id 4) (at 0 0 0)

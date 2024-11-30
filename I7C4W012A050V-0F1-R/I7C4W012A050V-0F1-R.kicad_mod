@@ -30,4 +30,9 @@
   (fp_line (start 17.82 -18.665) (end -16.72 -18.665) (layer F.CrtYd) (width 0.05))
   (fp_circle (center -17.22 -7.615) (end -17.12 -7.615) (layer F.SilkS) (width 0.2))
   (fp_circle (center -17.22 -7.615) (end -17.12 -7.615) (layer F.Fab) (width 0.2))
+  (model "${KIPRJMOD}/Component-Libraries/I7C4W012A050V-0F1-R/I7C4W012A050V-0F1-R.step"
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 -90 0))
+  )
 )

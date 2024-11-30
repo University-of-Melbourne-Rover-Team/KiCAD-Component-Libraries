@@ -6,7 +6,7 @@
     (property "Value" "ABXS003A3X341-SRZ" (at 29.21 5.08 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
-    (property "Footprint" "ABXS003A3X341SRZ" (at 29.21 -94.92 0)
+    (property "Footprint" "ABXS003A3X341-SRZ:ABXS003A3X341-SRZ" (at 29.21 -94.92 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (property "Datasheet" "http://www.mouser.com/datasheet/2/167/ABXS003_DS-1382213.pdf" (at 29.21 -194.92 0)

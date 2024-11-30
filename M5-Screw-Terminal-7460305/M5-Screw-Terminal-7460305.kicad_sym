@@ -6,7 +6,7 @@
     (property "Value" "7460305" (at 16.51 5.08 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
-    (property "Footprint" "7460305" (at 16.51 -94.92 0)
+    (property "Footprint" "M5-Screw-Terminal-7460305:M5-Screw-Terminal-7460305" (at 16.51 -94.92 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (property "Datasheet" "http://katalog.we-online.de/em/datasheet/7460305.pdf" (at 16.51 -194.92 0)

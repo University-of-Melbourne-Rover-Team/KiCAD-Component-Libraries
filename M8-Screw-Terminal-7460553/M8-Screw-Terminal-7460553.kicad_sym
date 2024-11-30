@@ -6,7 +6,7 @@
     (property "Value" "7460553" (at 19.05 5.08 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
-    (property "Footprint" "7460553" (at 19.05 -94.92 0)
+    (property "Footprint" "M8-Screw-Terminal-7460553:M8-Screw-Terminal-7460553" (at 19.05 -94.92 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (property "Datasheet" "https://katalog.we-online.de/em/datasheet/7460553.pdf" (at 19.05 -194.92 0)

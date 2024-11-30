@@ -1,11 +1,11 @@
 
-(footprint TO127P1500X440-8N (layer F.Cu) (tedit 65C1D889)
+(footprint BTS50010-1TAE (layer F.Cu) (tedit 65C1D889)
   (descr "")
   (attr smd)
   (fp_text reference REF** (at -3.145 -6.82 0) (layer F.SilkS)
     (effects (font (size 1.6 1.6) (thickness 0.15)))
   )
-  (fp_text value TO127P1500X440-8N (at 9.047 7.404 0) (layer F.Fab)
+  (fp_text value BTS50010-1TAE (at 9.047 7.404 0) (layer F.Fab)
     (effects (font (size 1.6 1.6) (thickness 0.15)))
   )
   (pad 1 smd rect (at -6.075 -3.81) (size 3.7 0.8) (layers F.Cu F.Mask F.Paste) (solder_mask_margin 0.102))

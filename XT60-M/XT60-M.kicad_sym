@@ -7,7 +7,7 @@
     (property "Value" "XT60-M" (id 1) (at 0.0 -5.08 0)
       (effects (font (size 1.27 1.27)) (justify bottom left))
     )
-    (property "Footprint" "XT60-M:AMASS_XT60-M" (id 2) (at 0 0 0)
+    (property "Footprint" "XT60-M:XT60-M" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "MF" "AMASS" (id 4) (at 0 0 0)

@@ -65,7 +65,7 @@
     (thermal_bridge_angle 45) (tstamp 3f0bb903-102b-46be-923b-332dd49089f6))
   (pad "23" smd roundrect (at 0 -22.07 180) (size 2.286 1.524) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
     (thermal_bridge_angle 45) (tstamp dc2aa347-d1a2-4d40-9074-6148beaccfc6))
-  (model "${KIPRJMOD}/Component Libraries/RP2040 Component Library/RP2040-ZERO-WAVESHARE without headers.STEP"
+  (model "${KIPRJMOD}/Component-Libraries/RP2040-Zero/RP2040-Zero.STEP"
     (offset (xyz 9 12 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
