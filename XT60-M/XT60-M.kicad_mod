@@ -32,8 +32,8 @@
   (fp_line (start -9.0 -0.5) (end -9.0 0.5) (layer F.Fab) (width 0.127))
   (fp_line (start 8.5 0.0) (end 9.5 0.0) (layer F.SilkS) (width 0.127))
   (model "${KIPRJMOD}/Component-Libraries/XT60-M/XT60-M.step"
-    (offset (xyz 0 0 0))
+    (offset (xyz 0 0 16))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 0 90))
   )
 )
