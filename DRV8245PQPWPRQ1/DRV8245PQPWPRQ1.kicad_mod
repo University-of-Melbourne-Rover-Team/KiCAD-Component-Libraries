@@ -1,6 +1,6 @@
-(footprint "DRV8245SPWPQ1" (version 20211014) (generator pcbnew)
+(footprint "DRV8245PQPWPRQ1" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tags "DRV8245SPWPQ1")
+  (tags "DRV8245PQPWPRQ1")
   (attr smd)
   (fp_text reference "REF**" (at 0 0 unlocked) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -247,7 +247,7 @@
   (pad "27" smd rect (at 2.949948 -3.574999) (size 1.404099 0.3548) (layers "F.Cu" "F.Paste" "F.Mask"))
   (pad "28" smd rect (at 2.949948 -4.225) (size 1.404099 0.3548) (layers "F.Cu" "F.Paste" "F.Mask"))
   (pad "EPAD" smd rect (at 0 0) (size 2.54 6.1976) (layers "F.Cu" "F.Mask"))
-  (model "${KIPRJMOD}/Component-Libraries/DRV8245SQPWPRQ1/DRV8245SQPWPRQ1.stp"
+  (model "${KIPRJMOD}/Component-Libraries/DRV8245PQPWPRQ1/DRV8245PQPWPRQ1.stp"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

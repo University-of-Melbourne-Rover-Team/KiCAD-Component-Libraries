@@ -36,4 +36,11 @@
       (xy 1.395 3.26)
     ) (layer F.Paste) (width 0.01)
   )
+ 	(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Infineon_PG-TO-220-7Lead_TabPin8.wrl"
+    (offset (xyz 1.5 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
+
+
