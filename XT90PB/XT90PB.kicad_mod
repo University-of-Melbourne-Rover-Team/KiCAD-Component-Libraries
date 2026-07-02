@@ -191,12 +191,13 @@
 		(solder_mask_margin 0.102)
 		(uuid "c7a75744-9c0b-4328-83a4-4ee66216bfd8")
 	)
-	(pad "P" thru_hole rect
+	(pad "P" thru_hole roundrect
 		(at -5.5 0)
 		(size 9 9)
 		(drill 6.1)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(roundrect_rratio 0.2222222222)
 		(solder_mask_margin 0.102)
 		(uuid "210d6299-c48b-44f8-b342-9ffcffcafa84")
 	)
